@@ -7,6 +7,8 @@
 ### Java ###
 # Compiled class file
 *.class
+.classpath
+.project
 
 # Log file
 *.log
@@ -31,19 +33,6 @@ hs_err_pid*
 ### Java-Web ###
 ## ignoring target file
 target/
-
-### Web ###
-*.asp
-*.cer
-*.csr
-*.css
-*.htm
-*.html
-*.js
-*.jsp
-*.php
-*.rss
-*.xhtml
 
 
 # End of https://www.gitignore.io/api/web,git,java,java-web
